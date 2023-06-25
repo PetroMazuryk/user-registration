@@ -8,9 +8,9 @@ export const TaskList = () => {
 
   return (
     <ul className={css.list}>
-      {tasks.map(({ id, text }) => (
+      {tasks.map(({ id, text }, index) => (
         <li key={id}>
-          <Task id={id} text={text} />
+          <Task id={id} text={text} numbers={index + 1} />
         </li>
       ))}
     </ul>
