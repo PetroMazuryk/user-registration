@@ -5,11 +5,13 @@
   padding: 4px;
   border: 1px solid #2a2a2a;
   border-radius: 4px;
+  margin-bottom: 8px;
+  background-color: rgb(216, 245, 237);
 }
 
 .text {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 10;
 }
 
 .button {
@@ -20,7 +22,7 @@
   margin-left: auto;
   border-radius: 4px;
   padding: 8px 12px;
-  background-color: #3f51b5;
+  background-color: #bd42c1;
   color: #fff;
 }
 
