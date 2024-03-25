@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/user-registration/static/css/main.da51d724.css",
-    "main.js": "/user-registration/static/js/main.914bf0b9.js",
+    "main.js": "/user-registration/static/js/main.bb667e6f.js",
     "static/js/266.7b3495ab.chunk.js": "/user-registration/static/js/266.7b3495ab.chunk.js",
-    "static/css/40.1e05f24e.chunk.css": "/user-registration/static/css/40.1e05f24e.chunk.css",
-    "static/js/40.a5abe613.chunk.js": "/user-registration/static/js/40.a5abe613.chunk.js",
+    "static/css/40.f3bc4150.chunk.css": "/user-registration/static/css/40.f3bc4150.chunk.css",
+    "static/js/40.c5351bad.chunk.js": "/user-registration/static/js/40.c5351bad.chunk.js",
     "static/css/635.d6811713.chunk.css": "/user-registration/static/css/635.d6811713.chunk.css",
     "static/js/635.2a2f02bd.chunk.js": "/user-registration/static/js/635.2a2f02bd.chunk.js",
     "static/css/680.dfcd45cd.chunk.css": "/user-registration/static/css/680.dfcd45cd.chunk.css",
@@ -12,10 +12,10 @@
     "static/js/270.96897d76.chunk.js": "/user-registration/static/js/270.96897d76.chunk.js",
     "index.html": "/user-registration/index.html",
     "main.da51d724.css.map": "/user-registration/static/css/main.da51d724.css.map",
-    "main.914bf0b9.js.map": "/user-registration/static/js/main.914bf0b9.js.map",
+    "main.bb667e6f.js.map": "/user-registration/static/js/main.bb667e6f.js.map",
     "266.7b3495ab.chunk.js.map": "/user-registration/static/js/266.7b3495ab.chunk.js.map",
-    "40.1e05f24e.chunk.css.map": "/user-registration/static/css/40.1e05f24e.chunk.css.map",
-    "40.a5abe613.chunk.js.map": "/user-registration/static/js/40.a5abe613.chunk.js.map",
+    "40.f3bc4150.chunk.css.map": "/user-registration/static/css/40.f3bc4150.chunk.css.map",
+    "40.c5351bad.chunk.js.map": "/user-registration/static/js/40.c5351bad.chunk.js.map",
     "635.d6811713.chunk.css.map": "/user-registration/static/css/635.d6811713.chunk.css.map",
     "635.2a2f02bd.chunk.js.map": "/user-registration/static/js/635.2a2f02bd.chunk.js.map",
     "680.dfcd45cd.chunk.css.map": "/user-registration/static/css/680.dfcd45cd.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.da51d724.css",
-    "static/js/main.914bf0b9.js"
+    "static/js/main.bb667e6f.js"
   ]
 }
