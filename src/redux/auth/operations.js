@@ -1,8 +1,8 @@
 import axios from 'axios';
 import { createAsyncThunk } from '@reduxjs/toolkit';
 
-axios.defaults.baseURL = 'https://goit-task-manager.herokuapp.com/';
-// axios.defaults.baseURL = 'https://connections-api.herokuapp.com';
+axios.defaults.baseURL = 'https://task-manager-api.goit.global/';
+// axios.defaults.baseURL = process.env.REACT_APP_URL;
 
 // Utility to add JWT
 const setAuthHeader = token => {
